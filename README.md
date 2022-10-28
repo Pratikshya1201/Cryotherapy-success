@@ -31,4 +31,3 @@ cd Cryotherapy-success
 Run index.html on the browser.
 ```
 
-
