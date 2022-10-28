@@ -25,5 +25,10 @@ git clone https://github.com/Pratikshya1201/Cryotherapy-success.git
 cd Cryotherapy-success
 ```
 
+- `Step 3:`
+
+```
+Run index.html on the browser.
+```
 
 
